@@ -1,2 +1,2 @@
 # CellMemory
-generalized, interpretable deciphering of atlas-scale single-cell and spatial omics data with consciousness inspired bottlenecked Transformer
+Hierarchical Interpretation of Out-of-Distribution Cells Using Bottlenecked Transformer
